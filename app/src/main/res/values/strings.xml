@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bakery</string>
+    <string name="erro_internet">Verifique sua Conexão com a Internet</string>
+    <string name="ingredientes">Ingredientes</string>
+    <string name="title_activity_activityde_teste">ActivitydeTeste</string>
+    <string name="receitaitem">numeroreceita</string>
+    <string name="title_activity_receitas">ActivityReceitas</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo_ingredientes">Ingredientes</string>
+    <string name="instrucoes">Instruções</string>
+    <string name="titulo_passos">Passo a Passo</string>
+    <string name="appwidget_text">Bakery</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_view_text">Nenhuma receita selecionada</string>
+    <string name="title_activity_main2_activityteste">Main2Activityteste</string>
+    <string name="txt_intro">Intro</string>
+    <string name="txt_passo">Passo</string>
+    <string name="widget_adicionado">Ingredientes adicionados no widget</string>
+    <string name="widget_deletado">Ingredientes deletados do widget</string>
+    <string name="recaregar">Recarregar</string>
+</resources>
